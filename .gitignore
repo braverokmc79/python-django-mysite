@@ -1,0 +1,37 @@
+# Python 관련
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.swp
+*.swo
+*.bak
+
+# Virtual Environment
+env/
+venv/
+myenv/
+ENV/
+*.env
+*.venv
+
+# Django 관련
+db.sqlite3
+*.log
+media/
+staticfiles/
+
+# VSCode 설정
+.vscode/
+
+# IDE 관련
+.idea/
+*.iml
+
+# MacOS 관련
+.DS_Store
+
+# Windows 관련
+Thumbs.db
+ehthumbs.db
+desktop.ini
