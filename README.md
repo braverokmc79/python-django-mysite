@@ -2,6 +2,14 @@
 
 본 강좌는 Django를 활용한 웹 프로그래밍을 배우기 위한 기초 강좌로, 프로젝트 생성부터 Git 사용법, 데이터베이스 모델링, Django View 및 Form, 테스트 작성, 정적 파일 관리, Admin 커스터마이징 등을 다룹니다.
 
+
+### 파이썬·장고 웹개발 | 코담 - 코드에 세상을 담다
+
+[![코담 소개 이미지](https://codam.kr/assets/images/og-image.jpg)](https://codam.kr/)
+
+---
+
+
 ## 강좌 목록
 
 ### 1. Django 설치 및 가상환경 설정
